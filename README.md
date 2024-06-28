@@ -1,16 +1,15 @@
-## Hi there 👋
+# ¡Hola, soy Gonzalo Rodrigue! 👋
 
-<!--
-**gonzalor43/gonzalor43** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy un desarrollador de software apasionado por desarrolo web. Aquí hay un poco más sobre mí:
 
-Here are some ideas to get you started:
+- 🌱 Actualmente estoy aprendiendo React.
+- 👯 Estoy buscando colaborar en proyctos de desarrollo de software.
+- 📫 Cómo contactarme: [correo electrónico, Twitter, LinkedIn, etc.].
+- 🎓 Estudiante de Ingeniería Informática.
+- 🤝 En busca de un trabajo.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tecnologías y Herramientas
+
+- Lenguajes: Python, HTML, CSS, JavaScript
+- Frameworks: Django, React
+- Herramientas: Visual Studio Code, Git, GitHub, PostMan, MySQL
