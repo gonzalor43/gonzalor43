@@ -1,4 +1,4 @@
-# ¡Hola, soy Gonzalo Rodrigue! 👋
+# ¡Hola, soy Gonzalo Rodriguez! 👋
 
 Soy un desarrollador de software apasionado por desarrolo web. Aquí hay un poco más sobre mí:
 
